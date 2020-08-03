@@ -1,0 +1,16 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "001.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.6.0",
+    "eslint-plugin-jest": "^23.20.0",
+    "jest": "^26.2.2"
+  }
+}
